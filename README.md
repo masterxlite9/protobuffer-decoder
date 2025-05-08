@@ -12,7 +12,7 @@ This library provides a simple Protobuf decoder that can convert Protobuf messag
 
 ## Installation
 
-To use this library, you can include the `protobuf_decoder` directory in your project or install it using pip if a `setup.py` is provided and the package is uploaded to PyPI.
+To use this library, you can include the `protobuf_decoder` directory in your project or install it using pip install proto-decoder.
 
 ## Usage
 
